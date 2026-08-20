@@ -1,0 +1,9 @@
+Pinterest Category: Health & Fitness
+Board: Evening Routines
+Subcategory / Sections: Evening Routine, 8 PM Night Routine, 9 PM Bedtime Routine
+Pin Range or Time: Pins 16–30
+
+16. Healthy Evening Routine Checklist
+
+Titles 17–21 are arranged in `03-night-routine-8pm.txt`.
+Titles 22–30 are arranged in `04-night-routine-9pm.txt`.
