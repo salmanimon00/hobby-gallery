@@ -1,1 +1,9 @@
+# CoreWellFit Pinterest Board and Section Registry
 
+| Board | Sections |
+|---|---|
+| Morning Routines | Productive Morning; Morning Self-Care; Nutrition & Hydration; Fitness & Energy; Mental Wellness |
+| Evening Routines | Evening Routine; 8 PM Night Routine; 9 PM Bedtime Routine |
+| Daily Routine Checklist | Afternoon Routine |
+| Weekend Self-Care | Weekend Reset |
+| Healthy Eating | Healthy Meals; Meal Planning; Nutrition Habits |

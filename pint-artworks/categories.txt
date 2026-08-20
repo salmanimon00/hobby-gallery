@@ -1,1 +1,6 @@
-categories 
+# CoreWellFit Pinterest Category Registry
+
+| Category | Use for |
+|---|---|
+| Health & Fitness | Routines, self-care, sleep, stretching, hydration, mental wellness, daily habits, and walking content. |
+| Food and Drink | Healthy meals, breakfast, dinner, nutrition, and meal-planning content. |
