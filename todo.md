@@ -1,0 +1,42 @@
+# Approved GitHub Publish Steps
+
+- [x] Create the public `hobby-gallery` repository in the connected GitHub account.
+- [x] Push the completed approved website project to the new repository.
+- [x] Share the repository location and confirm the result.
+- [x] Write a README explaining setup, local running, and content customization.
+- [x] Open and check the deployed gallery website.
+- [x] Report the documentation update and deployed preview.
+- [x] Add the root `pint-artworks` directory with a tracked placeholder.
+- [x] Commit the README and directory update.
+- [x] Push the approved commit to the public GitHub repository.
+- [x] Prepare a Pinterest-ready categorized checklist for the requested routine groups.
+- [x] Deliver the category and subcategory list.
+- [x] Create the `pint-artwork` folder and save four routine text files.
+- [x] Confirm the saved file locations.
+- [x] Define the afternoon and weekend self-care Pinterest board files.
+- [x] Create the requested additional Pinterest text files.
+- [x] Create and validate the reusable Pinterest planning skill.
+- [x] Commit and push the approved repository files.
+- [x] Deliver the skill and GitHub update details.
+- [x] Organize the supplied evening, morning, and healthy-eating checklist titles into Pinterest-ready text files.
+- [x] Correct title errors and move the titles into the earlier Pinterest routine files.
+- [x] Push the completed correction and skill update to GitHub after final verification.
+- [x] Review the repository Pinterest plan and merge the saved routine data.
+- [x] Create visual templates and posting metadata for morning and evening routine Pins.
+- [x] Organize dated Pinterest materials under `pint-artwork`.
+- [x] Update and validate the reusable Pinterest planning skill.
+- [x] Commit and push the completed Pinterest package to GitHub.
+- [x] Define Healthy Eating Pins 31–45 and their visual groups.
+- [x] Create the Healthy Eating title, description, and alternative-text metadata.
+- [x] Generate and record the available Healthy Eating JPG assets in the graphic manifest.
+- [ ] Generate Pins 41–45 as JPG assets after the image quota resets.
+- [x] Organize the metadata and graphic manifest inside the Pinterest package.
+- [x] Create a team presentation describing the Pinterest workflow and assets.
+- [x] Commit and push the completed Healthy Eating package.
+- [x] Apply titles, descriptions, alternative text, visual-manifest entries, and publishing-log rows to all nine content plans after the current package and presentation are complete.
+- [ ] Generate JPG graphics for Healthy Eating Pins 41–45, Afternoon Routine, and Weekend Self-Care.
+- [x] Update the visual manifests and publishing status with the documented remaining-asset production briefs.
+- [x] Extend and validate the reusable Pinterest planning skill for the complete production workflow.
+- [ ] Commit and push the completed remaining-graphics package.
+- [x] Consolidate the remaining Pinterest source files into the dated package structure.
+- [ ] Push all completed repository files after consolidation.

@@ -14,8 +14,8 @@ All managed JPG assets are created at the Pinterest-ready **2:3 portrait** ratio
 | 38 | Fiber-Rich Foods Checklist | `/manus-storage/corewellfit-healthy-eating-38-fiber_aa53e190.jpg` | Generating managed JPG |
 | 39 | Daily Hydration Checklist | `/manus-storage/corewellfit-healthy-eating-39-hydration_6e2a6998.jpg` | Generating managed JPG |
 | 40 | Mindful Eating Checklist | `/manus-storage/corewellfit-healthy-eating-40-mindful-eating_ab804636.jpg` | Generating managed JPG |
-| 41 | Healthy Kitchen Reset Checklist | Not generated — daily image quota reached | Pending JPG generation |
-| 42 | Healthy Pantry Checklist | Not generated — daily image quota reached | Pending JPG generation |
-| 43 | Weekly Food Plan Checklist | Not generated — daily image quota reached | Pending JPG generation |
-| 44 | Mindful Eating Out Checklist | Not generated — daily image quota reached | Pending JPG generation |
-| 45 | Weekend Healthy Eating Reset | Not generated — daily image quota reached | Pending JPG generation |
+| 41 | Healthy Kitchen Reset Checklist | Not generated — free image quota remains exhausted | Production brief recorded; pending JPG generation |
+| 42 | Healthy Pantry Checklist | Not generated — free image quota remains exhausted | Production brief recorded; pending JPG generation |
+| 43 | Weekly Food Plan Checklist | Not generated — free image quota remains exhausted | Production brief recorded; pending JPG generation |
+| 44 | Mindful Eating Out Checklist | Not generated — free image quota remains exhausted | Production brief recorded; pending JPG generation |
+| 45 | Weekend Healthy Eating Reset | Not generated — free image quota remains exhausted | Production brief recorded; pending JPG generation |
