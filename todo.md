@@ -37,6 +37,6 @@
 - [ ] Generate JPG graphics for Healthy Eating Pins 41–45, Afternoon Routine, and Weekend Self-Care.
 - [x] Update the visual manifests and publishing status with the documented remaining-asset production briefs.
 - [x] Extend and validate the reusable Pinterest planning skill for the complete production workflow.
-- [ ] Commit and push the completed remaining-graphics package.
+- [x] Commit and push the completed remaining-graphics package.
 - [x] Consolidate the remaining Pinterest source files into the dated package structure.
-- [ ] Push all completed repository files after consolidation.
+- [x] Push all completed repository files after consolidation.
