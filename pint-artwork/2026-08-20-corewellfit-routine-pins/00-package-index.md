@@ -11,4 +11,4 @@ This dated package consolidates the Morning, Evening, Afternoon, Weekend Self-Ca
 
 ## Quick publishing order
 
-Begin with Morning Pins 1–15, continue with Evening Pins 16–30, then use the supporting Afternoon and Weekend Self-Care ideas. Healthy Eating Pins 31–45 remain a structured placeholder until final titles are supplied.
+Begin with Morning Pins 1–15, continue with Evening Pins 16–30, then use the supporting Afternoon and Weekend Self-Care ideas. Healthy Eating Pins 31–45 are now listed in the content plan with corresponding metadata and visual-asset manifest entries.
